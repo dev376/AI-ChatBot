@@ -11,11 +11,11 @@ Setup & Installation
       python -m venv venv
 
 
-Activate it:
-    Windows
-      venv\Scripts\activate
-    Mac/Linux
-       source venv/bin/activate
+      Activate it:
+          Windows
+            venv\Scripts\activate
+          Mac/Linux
+             source venv/bin/activate
 
 3️⃣ Install dependencies
       pip install -r requirements.txt
@@ -23,13 +23,13 @@ Activate it:
 
 Your requirements.txt should include:
 
-streamlit
-PyPDF2
-langchain
-langchain-openai
-langchain-community
-faiss-cpu
-python-dotenv
+      streamlit
+      PyPDF2
+      langchain
+      langchain-openai
+      langchain-community
+      faiss-cpu
+      python-dotenv
 
 4️⃣ Create a .env file
       Create a file named .env in your project root with the following content:
