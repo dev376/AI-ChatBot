@@ -34,6 +34,8 @@ python-dotenv
 4️⃣ Create a .env file
       Create a file named .env in your project root with the following content:
       OPENAI_SECRET_KEY=your_openai_api_key_here
+
+      
 ▶️ Run the App
 streamlit run app.py
       Once the app starts, open your browser at:
