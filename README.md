@@ -1,6 +1,8 @@
 # AI-ChatBot
 
 Setup & Installation
+
+
 1️⃣ Clone the repository
       git clone https://github.com/yourusername/pdf-chatbot.git
       cd pdf-chatbot
